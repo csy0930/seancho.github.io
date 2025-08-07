@@ -883,3 +883,7 @@
 		font-size: 12px;color: #888;
 		font-weight: 300;
 		letter-spacing: 0.5px;}
+	.multiline-indent{text-indent: 0;padding-left: .5em;text-indent: -.7em;}
+	.letter-s-1{letter-spacing: -1px;}
+	.letter-s-2{letter-spacing: 0px;}
+	
